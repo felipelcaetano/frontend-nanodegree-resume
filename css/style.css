@@ -104,6 +104,10 @@ a {
   display: none;
 }
 
+.education-entry h3 {
+  padding-left: 0;
+}
+
 .orange {
   background-color: #f5ae23;
 }
@@ -159,6 +163,7 @@ ul {
 .biopic {
   float: left;
   padding: 10px;
+  height: 170px;
   width: 200px;
   display: none;
 }
